@@ -35,7 +35,7 @@
   "repository": "git://github.com/jczaplew/csv-express.git",
   "main": "index.js",
   "engines": {
-    "node": "0.6 || 0.8 || 0.10 || 0.12 || 4.x"
+    "node": "0.6 || 0.8 || 0.10 || 0.12 || 4.x || 12.x || 16.x || 18.x"
   },
   "scripts": {
     "test-express-2": "npm install express@2.x && mocha test/2",
